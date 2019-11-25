@@ -1,0 +1,36 @@
+{
+    "name": "Calculator",
+    "short_name": "Calculator",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#000000",
+    "theme_color": "#1b70bf",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "/assets/l_logo.png",
+            "type": "image/png",
+            "sizes": "512x218"
+        },
+        {
+            "src": "/assets/m_logo.png",
+            "type": "image/png",
+            "sizes": "256x144"
+        },
+        {
+            "src": "/assets/s_logo.png",
+            "type": "image/png",
+            "sizes": "128x72"
+        },
+        {
+            "src": "/assets/xs_logo.png",
+            "type": "image/png",
+            "sizes": "96x54"
+        },
+        {
+            "src": "/assets/xxs_logo.png",
+            "type": "image/png",
+            "sizes": "72x41"
+        }
+    ]
+}
